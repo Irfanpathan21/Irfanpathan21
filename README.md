@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Irfan Pathan</h1>
-<h3 align="center">Passionate about AI with a strong foundation in academics and problem-solving. I completed my SSC with 78.8% at Gyan Kendra Secondary School and continued to excel at Malini Kishor Sanghvi College of Commerce and Economics, securing 88.67% in FYJC (3rd rank) and 83.5% in HSC. Now on a path to becoming an AI engineer, I'm eager to leverage my skills and contribute to the field of artificial intelligence.</h3>
+<h3 align="center">Passionate about AI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfanpathan21&label=Profile%20views&color=0e75b6&style=flat" alt="irfanpathan21" /> </p>
 
-- 🌱 I’m currently learning **Data analytics**
+- 🌱 I’m currently learning **PYTHON INTERMEDIATE **
 
 - 📝 I write articles on [https://medium.com/@learnwithirfan](https://medium.com/@learnwithirfan)
 
