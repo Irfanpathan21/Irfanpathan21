@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfanpathan21&label=Profile%20views&color=0e75b6&style=flat" alt="irfanpathan21" /> </p>
 
-- 🌱 I’m currently learning **PYTHON INTERMEDIATE **
 
 - 📝 I write articles on [https://medium.com/@learnwithirfan](https://medium.com/@learnwithirfan)
 
